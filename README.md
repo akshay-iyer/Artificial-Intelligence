@@ -17,4 +17,10 @@ For ChronicKidneyDisease_Detection_SVM_RF:
 Dataset used: chronic_kidney_disease_full.csv
 Algorithm used : SVM (sklearn), Random Forest (sklearn)
 
+For Hill Climbing for TSP.py:
+Data used : input.txt
+Algorithm: HillClimbing (implemented in python from scratch)
 
+For Genetic Algorithm for TSP.py:
+Data used : input.txt
+Algorithm: Genetic Algorithm (implemented in python from scratch)
